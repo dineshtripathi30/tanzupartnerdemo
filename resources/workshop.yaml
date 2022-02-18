@@ -10,8 +10,8 @@ spec:
   duration: 15m
   url: https://github.com/dineshtripathi30/tanzupartnerdemo
   content:
-     files: github.com/dineshtripathi30/tanzupartnerdemo?ref=main?ref=main
-     image: docker.io/eknath009/lcimagewithoutaz:newest
+     files: github.com/dineshtripathi30/tanzupartnerdemo?ref=main
+     image: docker.io/dineshtripathi30/tanzudemo:latest
   session:
     namespaces:
       budget: small
