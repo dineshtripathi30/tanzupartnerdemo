@@ -1,0 +1,3 @@
+
+
+tanzu cluster delete 

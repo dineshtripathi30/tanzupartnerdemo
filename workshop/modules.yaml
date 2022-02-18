@@ -1,0 +1,24 @@
+modules:
+    workshop-overview:
+        name: Workshop Overview
+        exit_sign: Setup Environment
+    setup-environment:
+        name: Setup Environment
+        exit_sign: Start Workshop
+    exercises/01-sample-content:
+        name: TKG workshop
+    exercises/02-tmc:
+        name: TMC workshop
+    exercises/03-tmc-packages:
+        name: TMC Package Install
+    exercises/04-delete-packages:
+        name: TMC Delete packages
+    exercises/05-cluster-create:
+        name: TMC Cluster Create
+    exercises/06-cluster-delete:
+        name: TMC Cluster Delete
+    exercises/07-Cleanup:
+        name: Clean Up
+    workshop-summary:
+        name: Workshop Summary
+        exit_sign: Finish Workshop
