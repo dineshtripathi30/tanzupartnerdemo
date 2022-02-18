@@ -7,7 +7,7 @@ spec:
     registration:
       type: anonymous
   workshops:
-  - name: lab-lc-helloworld
+  - name: tanzupartnerdemo
     capacity: 10
     expires: 120m
     orphaned: 5m

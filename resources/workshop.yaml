@@ -1,16 +1,16 @@
 apiVersion: training.eduk8s.io/v1alpha2
 kind: Workshop
 metadata:
-  name: lab-lc-helloworld
+  name: tanzupartnerdemo
 spec:
-  title: Hello from Eknath
+  title: Tanzu Service Mesh Workshop
   description: Workshop created to demo the workload creation in TKG
   vendor: eduk8s.io
   difficulty: beginner
   duration: 15m
-  url: https://github.com/Eknathreddy09/lab-lc-helloworld
+  url: https://github.com/dineshtripathi30/tanzupartnerdemo
   content:
-     files: github.com/Eknathreddy09/lab-lc-helloworld?ref=main
+     files: github.com/dineshtripathi30/tanzupartnerdemo?ref=main?ref=main
      image: docker.io/eknath009/lcimagewithoutaz:newest
   session:
     namespaces:
